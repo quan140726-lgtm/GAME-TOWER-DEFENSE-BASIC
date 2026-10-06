@@ -2,6 +2,7 @@
 Một trò chơi Tower Defense được phát triển bằng C++ và SFML bởi nhóm 11.10.
 Người chơi phải bảo vệ căn cứ của mình khỏi làn sóng quái vật tiến đến!
 
+
 🎮 Cách chơi
 Nhấn phím 1 / 2 / 3 để chọn loại trụ:
 1 → Súng máy (Bắn nhanh, dame nhỏ)
